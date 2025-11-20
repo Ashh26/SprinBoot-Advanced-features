@@ -3,7 +3,6 @@ package com.SpringBootAdvancedFeatures.SpringBoot.Advanced.features.Day5_CachePr
 
 import com.SpringBootAdvancedFeatures.SpringBoot.Advanced.features.Day5_CacheProviderRedis.Entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository("customerJpaRepository")
