@@ -4,13 +4,22 @@ This repository operationalizes a 7-day deep-dive into advanced Spring Boot capa
 
 📅 7 Days → 7 Advanced Spring Boot Features
 Day	Feature	Summary
+
 Day 1	Scheduling Tasks	Automating workflows using @Scheduled with fixed delays, cron expressions, and enterprise-grade scheduling use cases.
+
 Day 2	Sending Emails	SMTP integration with Spring Boot for notifications, alerts, and transactional communications.
+
 Day 3	File Handling & Uploads	End-to-end file lifecycle management including upload, storage, and validation.
+
 Day 4	Caching	Improving application throughput via Spring Cache abstraction with in-memory caching.
+
 Day 5	Caching with Providers	Provider-level caching enablement using Redis, Ehcache, and Caffeine for performance uplift.
+
 Day 6	Transaction Management	Ensuring data integrity with @Transactional, rollback strategies, and ACID-aligned operations.
+
 Day 7	DTO Mapping	Cleaner API contracts using DTO patterns powered by ModelMapper for transformation orchestration.
+
+
 🏗️ Tech Stack
 
 Java 17+
